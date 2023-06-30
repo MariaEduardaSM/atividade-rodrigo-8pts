@@ -1,9 +1,12 @@
 
 <h1 align="center">  Aplicação Mobile React Native-AGÊNCIA BANCARIA </h1>
-<div align="center">
+<div style="text-align:center">
 
-![lOGO DO APP ](https://github.com/MariaEduardaSM/atividade-rodrigo-8pts/assets/112040400/28f6b89b-21c2-4a59-9a28-1f80dd11228e)
+  <img src="https://github.com/MariaEduardaSM/atividade-rodrigo-8pts/assets/112040400/28f6b89b-21c2-4a59-9a28-1f80dd11228e" alt="Logo do Projeto" style="width:260px; border-radius:70%">
 </div>
+
+
+
 Aplicativo Mobile desenvolvido em React Native para agencia bancaria
 <br/>
 <br/>
@@ -35,3 +38,9 @@ Autores
 | :---: | :---: | :---: |
 
 
+
+<div style="text-align:center">
+  <img src="caminho/para/sua/imagem.png" alt="Logo do Projeto" style="width:200px; border-radius:50%">
+</div>
+
+https://github.com/MariaEduardaSM/atividade-rodrigo-8pts/assets/112040400/28f6b89b-21c2-4a59-9a28-1f80dd11228e
