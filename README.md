@@ -66,7 +66,7 @@ Este projeto esta sobe a licença [MIT](./LICENSE).
 <br/>
 
 
-## 📝 Autores
+## 💜 Autores
    
 | [<img src="https://avatars.githubusercontent.com/u/112040400?v=4" width=115><br><sub>Maria Eduarda</sub>](https://github.com/MariaEduardaSM) | [<img src="https://avatars.githubusercontent.com/u/112037573?v=4" width=115><br><sub>Heloisa Helena</sub>](https://github.com/HeloisaHT) | |
 | :---: | :---: | :---: |
