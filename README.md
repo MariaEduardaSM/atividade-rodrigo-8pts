@@ -42,7 +42,7 @@ Para testar o nosso projeto, você irá precisar do [Git](https://git-scm.com/bo
 <br>
 aqui tá uma opção de emulador! [Genymotion](https://www.genymotion.com/download/)
 
-Ambos instalados 
+Ambos instalados :👍:
 <br/>
 você irá copiar o link do nosso repositório ,abrir o terminal e digitar:
 <br/>
