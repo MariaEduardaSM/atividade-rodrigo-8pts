@@ -39,8 +39,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🔧 Como testar o nosso projeto
 Para testar o nosso projeto, você irá precisar do [Git](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git)  e de um emulador instalado em sua máquina,<br>/
-recomenadamos o [Genymotion](https://www.genymotion.com/download/)
-Após a instalação de ambos,você irá copiar o link do nosso repositório ,abrir o terminal e digitar<br/>
+aqui tá uma opção de emulador! [Genymotion](https://www.genymotion.com/download/)
+Ambos instalados <br/>você irá copiar o link do nosso repositório ,abrir o terminal e digitar<br/>
 <br/>
 -git clone e o link do nosso repósitorio<br/>
 <br/>
