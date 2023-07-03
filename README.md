@@ -1,5 +1,5 @@
 
-<h1 align="center">  Aplicação Mobile React Native-AGÊNCIA BANCARIA </h1>
+<h1 align="center">  Aplicação Mobile React Native-AGÊNCIA BANCÁRIA </h1>
 <div style="text-align:center">
 
   <img src="https://github.com/MariaEduardaSM/atividade-rodrigo-8pts/assets/112040400/28f6b89b-21c2-4a59-9a28-1f80dd11228e" alt="Logo do Projeto" style="width:260px; border-radius:70%">
