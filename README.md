@@ -7,7 +7,9 @@
 
 
 
-Aplicativo Mobile desenvolvido em React Native para  aprendizagem e entrega final da máteria de laboratório de progamação para dispostivos móveis do curso de T.I da instituição CEFET de Campo Belo-MG turma2022/2023
+Aplicativo Mobile desenvolvido em React Native para  aprendizagem e entrega final da máteria de laboratório de progamação para dispostivos móveis
+do curso de T.I da instituição CEFET de Campo Belo-MG 
+turma2022/2023
 <br/>
 <br/>
 
