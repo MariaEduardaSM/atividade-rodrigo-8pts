@@ -7,17 +7,20 @@
 
 
 
-Aplicativo Mobile desenvolvido em React Native para agencia bancaria
+Aplicativo Mobile desenvolvido em React Native para  aprendizagem e entrega final da máteria de laboratório de progamação para dispostivos móveis do curso de T.I da instituição CEFET de Campo Belo-MG turma2022/2023
 <br/>
 <br/>
 
 ## 🔨 Funcionalidades do projeto
 
-- `Funcionalidade 1` `Cadastro de Autores`: Nosso sistema precisa estar apto a cadastrar os autores associados ao livros publicados por eles. Para cadastrar um autor, devem ser informados seu e-mail, válido e único dentro do sistema. Seu nome e uma pequena biografia. Todos os campos são obrigatórios. O sistema também deve gravar a data em que o autor foi cadastrado no sistema.
-- `Funcionalidade 2` `Cadastro de categorias`: O sistema precisa agrupar os livros em categorias como ficção, filosofia, história, infantil. Para o cadastro de uma categoria no sistema, é preciso informar obrigatoriamente seu nome. A data em que a categoria foi cadastrada no sistema precisa ser gravada.
-- `Funcionalidade 3` `Cadastro de livros`: Para cadastrar um livro na editora, precisamos informar seu título, isbn, resumo, sumário, número de páginas, autor, categoria e preço. O autor e categoria precisam estar previamente cadastrados no sistema. O isbn precisa estar no formato correto. O resumo não pode ter mais que 500 caracteres e o sumário é de tamanho livre. Todos os campos são obrigatórios.
-- `Funcionalidade 4` `Realizar venda`: Para realizar uma venda, o usuário do sistema deve ser capaz de buscar os livros pelo seu título, adicionar à venda e finalizar a venda. No processo de finalização da venda os títulos dos livros e seus preços devem ser exibidos juntamente com a data da venda que deve ficar armazenada. O preço do livro no momento da venda também precisa ser salvo.
-- `Funcionalidade 5` `Relatório de vendas`:Para saber o quanto a editora vem faturando, precisa-se de um relatório que liste as vendas realizadas, os livros associadas, seus preços de venda e datas. O sistema precisa permitir informar um período de inicio e fim para qual será realizado o relatório. 
+- `Login com validação de senha`: Nosso sistema se inicia com uma página de login que após colocar a senha e número da conta cadastrada irá ser redirecionada para o Menu.
+-  `Menu`: No menu se encontra reunida todas as funcionalidades do nosso sistema.
+- `Saldo`:A função saldo é determinado um certo valor para que seja realizado as outras funções do nosso sistema e que garante o usuário visualizar o saldo.
+-  `Saque`: A função saque possibilita o usuário de retirar um certo valor do seu saldo desde que não seja retirado uma quantia maior do que a presente.
+- `Depósito`: A função depósito permite o usuário acrescentar um valor,desde que esse valor não seja negativo.
+- `Transferência`:A função transferência permite que o usuário logado transfira um valor positivo para outra conta no caso do nosso sistema para a conta determinada,caso ele coloque outra conta será apresentado um erro.
+- `Relatório`: A função relatório será apresentado ao usuário o nome e o saldo definido dos participantes do projeto.
+- `Desconectar`:A função desconectar evita que o sistema seja finalizado sozinho,pois isso só ira acontecer caso o usuário clicas nessa função e confirmar que realmente quer se desconectar
 <br/>
 
 ## ✔️ Técnicas e tecnologias utilizadas
@@ -30,6 +33,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [TypeScript](https://www.typescriptlang.org/)
   
 <br/>
+## Forma de testar o nosso projeto
 Autores
 <br/>
 
