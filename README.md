@@ -51,7 +51,7 @@ você irá copiar o link do nosso repositório ,abrir o terminal e digitar:
 <br/>
 após instalado é so você inicializar a pasta com o emulador e prontinho!🎉
 
-## 🙋‍♀️🙋‍♀️Autores
+## 💅Autores
 <br/>
 
    
