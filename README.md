@@ -38,13 +38,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 ## 🔧 Como testar o nosso projeto
-Para testar o nosso projeto você irá precisar do git instalado [Git](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git) instalado e de um emulador instalado em sua máquina.
+Para testar o nosso projeto você irá precisar do [Git](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git)  e de um emulador instalado em sua máquina,
 recomenadamos o [Genymotion](https://www.genymotion.com/download/)
-Após a instalação do emulador e do git,você irá copiar o link do nosso repositório abrir o terminal e digitar
+Após a instalação de ambos,você irá copiar o link do nosso repositório abrir o terminal e digitar
 -git clone e o link do nosso repósitorio 
 após instalado é so você inicializar a pasta com o emulador e prontinho!
 
-Autores
+## Autores
 <br/>
 
    
@@ -53,8 +53,3 @@ Autores
 
 
 
-<div style="text-align:center">
-  <img src="caminho/para/sua/imagem.png" alt="Logo do Projeto" style="width:200px; border-radius:50%">
-</div>
-
-https://github.com/MariaEduardaSM/atividade-rodrigo-8pts/assets/112040400/28f6b89b-21c2-4a59-9a28-1f80dd11228e
