@@ -48,7 +48,7 @@ Ambos instalados 👍
 ```bash
 você irá copiar o link do nosso repositório ,abrir o terminal e digitar:
 $ git clone o link do nosso repósitorio
-após instalado é so você inicializar a pasta com o emulador
+após instalado é só você inicializar a pasta com o emulador
 terminal
 cd nome_da_pasta
 npx react-native start
