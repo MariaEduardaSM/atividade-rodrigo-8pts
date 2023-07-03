@@ -33,7 +33,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [TypeScript](https://www.typescriptlang.org/)
   
 <br/>
-### 🔧 Instalação
+## 🔧 Instalação
 Para testar o nosso projeto você irá precisar de um emulador instalado em sua máquina.
 Segue aqui o link de intalação do emulador [Genymotion](https://www.genymotion.com/download/)
 e também do git instalado [git](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git)
