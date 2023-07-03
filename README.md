@@ -46,6 +46,7 @@ Ambos instalados
 <br/>
 você irá copiar o link do nosso repositório ,abrir o terminal e digitar:
 <br/>
+<br/>
 -git clone e o link do nosso repósitorio<br/>
 <br/>
 após instalado é so você inicializar a pasta com o emulador e prontinho!
