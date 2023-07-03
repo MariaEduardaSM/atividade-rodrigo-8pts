@@ -64,7 +64,7 @@ Este projeto esta sobe a licença [MIT](./LICENSE).
 
 
 <br/>
-## 👾 Autores:
+## 👾 Funcionalidades do projeto
 <br/>
 
    
