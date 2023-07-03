@@ -55,6 +55,7 @@ a- android
 e prontinho!🎉
 
 ```
+</br>
 
 ## 📝 Licença
 
@@ -63,7 +64,7 @@ Este projeto esta sobe a licença [MIT](./LICENSE).
 
 
 <br/>
-## 🦸 Autores
+## 👾 Autores:
 <br/>
 
    
